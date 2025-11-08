@@ -38,13 +38,6 @@
 
 ---
 
-### 📱 Featured Projects  
-- [🚀 AI Workforce Upskilling Platform](#) – AI tutors, skills training, and workforce transformation.  
-- [📊 Solana Trading Bot](#) – Wallet-tracking, automated strategies, and high-frequency trading.  
-- [📖 CoreSkills.ai Mobile App](#) – Flutter-based AI learning assistant with voice-first features.  
-
----
-
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliasluoma)  
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://coreseer.com)  
