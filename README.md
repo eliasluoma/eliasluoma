@@ -38,14 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-![Elias GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasluoma&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasluoma&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=eliasluoma&theme=radical)  
-
----
-
 ### 📱 Featured Projects  
 - [🚀 AI Workforce Upskilling Platform](#) – AI tutors, skills training, and workforce transformation.  
 - [📊 Solana Trading Bot](#) – Wallet-tracking, automated strategies, and high-frequency trading.  
