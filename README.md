@@ -7,7 +7,7 @@
 I am a CTO and technical co-founder with over 20 years of experience building, scaling, and operating software products and technology organizations. I take end-to-end responsibility for technology: architecture, execution, teams, and long-term sustainability.
 
 ### 🧭 CTO Profile
-- Chief Technology Officer: ownership of technical strategy, architecture, and delivery.
+- ** Chief Technology Officer**: ownership of technical strategy, architecture, and delivery.
 - Hands-on leadership: capable of deep technical work while leading teams and setting standards.
 - Product-driven engineering: align technology decisions tightly with business and customer value.
 - Scalable systems: design and operate reliable, secure, and cost-efficient cloud architectures.
