@@ -4,11 +4,20 @@
 
 ---
 
+I am a CTO and technical co-founder with over 20 years of experience building, scaling, and operating software products and technology organizations. I take end-to-end responsibility for technology: architecture, execution, teams, and long-term sustainability.
+
+### 🧭 CTO Profile
+Chief Technology Officer: ownership of technical strategy, architecture, and delivery.
+Hands-on leadership: capable of deep technical work while leading teams and setting standards.
+Product-driven engineering: align technology decisions tightly with business and customer value.
+Scalable systems: design and operate reliable, secure, and cost-efficient cloud architectures.
+Founder mindset: pragmatic decisions, fast iteration, and accountability for results.
+
 ### 🧑‍💻 About Me
-- 🚀 Technical founder with 20+ years in software & business.  
-- 💡 Roles include developer, project manager, product owner, and ICT manager.  
-- 🔧 Skilled in both **software engineering** and **business operations**.  
-- 🤝 Passionate about **AI, cloud solutions, and mobile apps**.  
+🚀 CTO and technical founder with 20+ years in software development and entrepreneurship.
+💡 Background includes CTO, developer, product owner, project manager, and ICT manager roles.
+🔧 Strong combination of software engineering, cloud platforms, and business operations.
+🤝 Core focus areas: AI-driven solutions, cloud infrastructure, mobile applications, and backend platforms.
 
 ---
 
