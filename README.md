@@ -1,4 +1,4 @@
-## 👋 Hi There, I’m Elias – Media Technology Engineer & Entrepreneur  
+## 👋 Hi There, I’m Elias – CTO & Technical Co-Founder 
 
 🎓 **Media Technology Engineer** (2007) | 💼 **Entrepreneur (20+ yrs)** | 🤖 **AI Specialist**  
 
@@ -7,17 +7,17 @@
 I am a CTO and technical co-founder with over 20 years of experience building, scaling, and operating software products and technology organizations. I take end-to-end responsibility for technology: architecture, execution, teams, and long-term sustainability.
 
 ### 🧭 CTO Profile
-Chief Technology Officer: ownership of technical strategy, architecture, and delivery.
-Hands-on leadership: capable of deep technical work while leading teams and setting standards.
-Product-driven engineering: align technology decisions tightly with business and customer value.
-Scalable systems: design and operate reliable, secure, and cost-efficient cloud architectures.
-Founder mindset: pragmatic decisions, fast iteration, and accountability for results.
+- Chief Technology Officer: ownership of technical strategy, architecture, and delivery.
+- Hands-on leadership: capable of deep technical work while leading teams and setting standards.
+- Product-driven engineering: align technology decisions tightly with business and customer value.
+- Scalable systems: design and operate reliable, secure, and cost-efficient cloud architectures.
+- Founder mindset: pragmatic decisions, fast iteration, and accountability for results.
 
 ### 🧑‍💻 About Me
-🚀 CTO and technical founder with 20+ years in software development and entrepreneurship.
-💡 Background includes CTO, developer, product owner, project manager, and ICT manager roles.
-🔧 Strong combination of software engineering, cloud platforms, and business operations.
-🤝 Core focus areas: AI-driven solutions, cloud infrastructure, mobile applications, and backend platforms.
+- 🚀 CTO and technical founder with 20+ years in software development and entrepreneurship.
+- 💡 Background includes CTO, developer, product owner, project manager, and ICT manager roles.
+- 🔧 Strong combination of software engineering, cloud platforms, and business operations.
+- 🤝 Core focus areas: AI-driven solutions, cloud infrastructure, mobile applications, and backend platforms.
 
 ---
 
